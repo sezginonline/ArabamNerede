@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Where Is My Car?</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Remember your place of car with Where Is My Car application. \n\nBest way to find your car: &quot;Where Is My Car&quot;</string>
+    <string name="arabami_kaydet">Park My Car</string>
+    <string name="arabami_bul">Where Is My Car?</string>
+    <string name="copyright">Where Is My Car, is a HaberTrend app. </string>
+    <string name="title_activity_map">Where Is My Car</string>
+    <string name="car_pic">Car Picture</string>
+    <string name="location_calc">Calculating location..</string>
+    <string name="take_photo">Do you want to take photo?</string>
+    <string name="title_activity_image">Where Is My Car</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>

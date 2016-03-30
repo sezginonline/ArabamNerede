@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/main_header_selector"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/message_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:text="@string/hello_world" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/message_text"
+        android:onClick="openMap1"
+        android:text="@string/arabami_kaydet"
+        android:textStyle="bold"
+        android:background="@drawable/btn_orange"
+        style="@style/ButtonText" />
+    
+    <Button
+        android:id="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/button1"
+        android:onClick="openMap2"
+        android:text="@string/arabami_bul"
+        android:textStyle="bold"
+        android:background="@drawable/btn_orange"
+        style="@style/ButtonText" />
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/copyright" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:orientation="vertical" >
+
+    </LinearLayout>
+
+</RelativeLayout>
