@@ -15,8 +15,7 @@ Arabam Nerede?, bir iyiApp uygulamasıdır.
 
 Diğer Uygulamalar:
 
-[ChatSohbet](https://play.google.com/store/apps/details?id=com.iyiapp.chatsohbet)
-
+[ChatSohbet](https://play.google.com/store/apps/details?id=com.iyiapp.chatsohbet) 
 [Yayın Akışı](https://play.google.com/store/apps/details?id=com.iyiapp.yayin.akisi)
 
 [Biraver](https://play.google.com/store/apps/details?id=com.iyiapp.biraver)
