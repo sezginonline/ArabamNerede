@@ -12,6 +12,3 @@ Ahmet Bey'in en sevmediği şey ise, özellikle katlı otoparklarda aracını pa
 Ahmet Bey'in ve onun gibi binlerce kişinin hayatını kolaylaştırdığımız için mutluyuz.
 
 Arabam Nerede?, bir iyiApp uygulamasıdır.
-
-https://play.google.com/store/apps/details?id=com.habertrend.arabamnerede&hl=tr
-
