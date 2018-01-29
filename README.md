@@ -26,5 +26,5 @@ Diğer Uygulamalar:
 [Euro Kuru](https://play.google.com/store/apps/details?id=com.iyiapp.eurokuru) | 
 [Ace of Race](https://play.google.com/store/apps/details?id=com.iyiapp.aceofrace) | 
 [Altın Kuru](https://play.google.com/store/apps/details?id=com.iyiapp.altinkuru) | 
-[Bitcoin Kuru](https://play.google.com/store/apps/details?id=com.iyiapp.bitcoinkuru) 
+[Bitcoin Kuru](https://play.google.com/store/apps/details?id=com.iyiapp.bitcoinkuru) | 
 [Puan Durumu](https://play.google.com/store/apps/details?id=com.iyiapp.puandurumu)
